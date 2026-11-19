@@ -1,0 +1,8 @@
+{
+  "ttsProvider": "edge",
+  "textProvider": "gemini",
+  "defaultVoice": "my-MM-NilarNeural",
+  "dubbingDefaultVoice": "my-MM-NilarNeural",
+  "geminiTtsVoice": "Kore",
+  "updatedAt": "2026-11-13T14:46:12.921Z"
+}
